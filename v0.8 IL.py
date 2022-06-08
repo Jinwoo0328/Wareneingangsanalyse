@@ -19,6 +19,8 @@ import numpy as np
 import time
 
 
+# HALLO
+
 start_time = time.time()
 
 # Datensatz laden
