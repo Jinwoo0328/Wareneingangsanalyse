@@ -19,7 +19,7 @@ import numpy as np
 import time
 
 
-# HALLO
+# LOL
 
 start_time = time.time()
 
